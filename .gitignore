@@ -1,0 +1,21 @@
+# Documento interno propietario — NO publicar
+REF_261_MMW_US_Asset_Criticality_Evaluation.docx
+*.docx
+
+# Salidas / temporales
+*.xlsx
+analisis_criticidad.xlsx
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Sistema operativo / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
